@@ -1,2 +1,2 @@
 # SendIt
-Sendit api is a didigtal logistic app api.
+Sendit api is a digital logistic app api.
