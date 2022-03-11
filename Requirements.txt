@@ -1,0 +1,4 @@
+Python 3.10
+django rest-framework
+PyMYsql
+Flake8
